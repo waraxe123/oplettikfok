@@ -22,7 +22,7 @@ print(f'Bot telah aktif @{me.username}')
 
 
 
-	bot.send_message(m.c
+	
 
 @bot.message_handler(content_types=['text'])
 def tiktokdl(m):
